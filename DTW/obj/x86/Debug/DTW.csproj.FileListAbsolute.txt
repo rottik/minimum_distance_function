@@ -1,0 +1,10 @@
+c:\users\rotty\documents\visual studio 2010\Projects\DTW\DTW\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rotty\documents\visual studio 2010\Projects\DTW\DTW\bin\Debug\DTW.exe
+c:\users\rotty\documents\visual studio 2010\Projects\DTW\DTW\bin\Debug\DTW.pdb
+c:\users\rotty\documents\visual studio 2010\Projects\DTW\DTW\obj\x86\Debug\DTW.exe
+c:\users\rotty\documents\visual studio 2010\Projects\DTW\DTW\obj\x86\Debug\DTW.pdb
+D:\zajimaveAlgoritmy\DTW\DTW\obj\x86\Debug\DTW.exe
+D:\zajimaveAlgoritmy\DTW\DTW\obj\x86\Debug\DTW.pdb
+D:\zajimaveAlgoritmy\DTW\DTW\bin\Debug\DTW.exe
+D:\zajimaveAlgoritmy\DTW\DTW\bin\Debug\DTW.pdb
+D:\zajimaveAlgoritmy\DTW\DTW\obj\x86\Debug\DTW.csprojResolveAssemblyReference.cache
